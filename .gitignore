@@ -16,3 +16,4 @@ RECOVERED_*.mdl
 
 # Mac-specific files
 .DS_Store
+.nova
