@@ -1,17 +1,17 @@
 Unnamed: 0,Water withdrawals (liters/(MW*hour))
-hard coal,54577.837553
-natural gas nonpeaker,4159.924536
-nuclear,63249.562164
+hard coal,54577.8375533137
+natural gas nonpeaker,4159.924535899
+nuclear,63249.5621640991
 hydro,0.0
 onshore wind,0.0
-solar PV,20.000187
-solar thermal,2103.528107
-biomass,13890.685458
-geothermal,4930.333761
-petroleum,23313.172724
-natural gas peaker,30331.387156
-lignite,54577.837553
+solar PV,20.0001872725
+solar thermal,2103.5281074697
+biomass,13890.685457655
+geothermal,4930.3337614825
+petroleum,23313.1727243145
+natural gas peaker,30331.3871562359
+lignite,54577.8375533137
 offshore wind,0.0
-crude oil,23313.172724
-heavy or residual fuel oil,23313.172724
-municipal solid waste,13890.685458
+crude oil,23313.1727243145
+heavy or residual fuel oil,23313.1727243145
+municipal solid waste,13890.685457655

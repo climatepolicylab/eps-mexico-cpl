@@ -1,17 +1,17 @@
 Unnamed: 0,Water consumption (liters/(MW*hour))
-hard coal,1960.121881
-natural gas nonpeaker,620.640139
-nuclear,1684.774203
-hydro,16999.982182
+hard coal,1960.121880651
+natural gas nonpeaker,620.6401391756
+nuclear,1684.7742027947
+hydro,16999.9821823293
 onshore wind,0.0
-solar PV,20.000187
-solar thermal,2103.528107
-biomass,971.734322
-geothermal,4930.333761
-petroleum,1183.856661
-natural gas peaker,745.036419
-lignite,1960.121881
+solar PV,20.0001872725
+solar thermal,2103.5281074697
+biomass,971.7343215319
+geothermal,4930.3337614825
+petroleum,1183.8566612431
+natural gas peaker,745.0364189942
+lignite,1960.121880651
 offshore wind,0.0
-crude oil,1183.856661
-heavy or residual fuel oil,1183.856661
-municipal solid waste,971.734322
+crude oil,1183.8566612431
+heavy or residual fuel oil,1183.8566612431
+municipal solid waste,971.7343215319
