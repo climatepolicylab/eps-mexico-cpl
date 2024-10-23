@@ -103,7 +103,8 @@ def export_tabs_to_csv(excel_file_path, tabs_to_export, output_dir):
                 df = pd.read_excel(excel_file_path, sheet_name=tab_name)
 
                 # Round all values in the DataFrame to the 10th significant figure
-                df = df.round(6)
+                # Note: for some small values (e.g., fuel taxes) rounding to 6 looses data and changes model results
+                df = df.round(10)
 
                 # Define the CSV file path where you want to save the data
                 csv_file_path = os.path.join(output_dir, f"{tab_name}.csv")
